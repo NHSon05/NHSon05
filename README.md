@@ -40,7 +40,11 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,bootstrap,tailwind,react,nodejs,express,nextjs,mysql,git,github,docker,postman,figma,redux,mongodb&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,astro,tailwind,sass&perline=8" />
+  <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,supabase&perline=8" />
+  <br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma&perline=8" />
   <br><br>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Antigravity-20232A?style=for-the-badge&logo=rocket&logoColor=white"/>
