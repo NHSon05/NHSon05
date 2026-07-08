@@ -42,7 +42,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,astro&perline=8" />
   <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,supabase&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,mysql,supabase&perline=8" />
   <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma&perline=8" />
   <br><br>
