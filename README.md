@@ -40,7 +40,7 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,astro,tailwind,sass&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,astro&perline=8" />
   <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,supabase&perline=8" />
   <br/>
