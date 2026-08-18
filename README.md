@@ -44,7 +44,7 @@
   <br/>
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,prisma,mongodb,mysql,supabase,firebase&perline=10" />
   <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,aws,gcp&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,aws,gcp,githubactions&perline=8" />
   <br><br>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Antigravity-20232A?style=for-the-badge&logo=rocket&logoColor=white"/>
