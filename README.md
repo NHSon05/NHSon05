@@ -2,7 +2,7 @@
 
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Front-End Developer</h3>
+  <h3>Software Developer</h3>
   
   <br>
   <p>
